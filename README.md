@@ -6,8 +6,6 @@ A passionate frontend developer from India
 c css3 figma git html5 java javascript linux mongodb mssql mysql nextjs nodejs postgresql python react tailwind tailwind
 
 
-📖 What I am currently learning / improving on
-vuejs logo Redux logo
 
 
 
